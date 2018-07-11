@@ -1,0 +1,10 @@
+.jumbotron {
+  color: white;
+  background-image: url("../img/cool pig dice.jpg");
+  height: auto;
+  width: 100%;
+
+}
+body {
+  background-image: url("../cool pig dice.jpg");
+}
